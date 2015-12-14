@@ -1,1 +1,3 @@
 nowa linia
+
+edytuje znow 
